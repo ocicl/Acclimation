@@ -4,6 +4,6 @@ Tools for internationalization of Common Lisp programs.
 
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/robert-strandh/Acclimation.git |
-| commit  | 4fc5969                                               |
+| commit  | 9031388                                               |
 | systems | acclimation                                           |
 |---------+-------------------------------------------------------|
