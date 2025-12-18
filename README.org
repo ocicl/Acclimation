@@ -1,9 +1,9 @@
-* Acclimation
+* acclimation
 
-Tools for internationalization of Common Lisp programs.
+Library supporting internationalization.
 
-|---------+-------------------------------------------------------|
+|---------+-------------------------------------------------|
 | source  | git:https://github.com/robert-strandh/Acclimation.git |
-| commit  | 9339b92                                               |
-| systems | acclimation                                           |
-|---------+-------------------------------------------------------|
+| commit  | 9339b92                                         |
+| systems | acclimation                                     |
+|---------+-------------------------------------------------|
